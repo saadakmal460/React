@@ -34,18 +34,6 @@ function App() {
     }
   };
 
-  const ChangeToRed = () => {
-    if (modeRed === "light") {
-      SetModeRed("danger");
-      document.body.style.backgroundColor = "red";
-      showAlert("Red mode enabled", "success");
-    } else {
-      SetModeRed("light");
-      document.body.style.backgroundColor = "white";
-      showAlert("Light mode enabled", "success");
-    }
-  };
-
   return (
     <>
       <Router>
@@ -54,16 +42,15 @@ function App() {
           mode={mode}
           modeRed={modeRed}
           toggeleMode={ChangeMode}
-          toggeleModeRed={ChangeToRed}
         />
         <Alert alert={alert} />
         <div className="container my-3">
           <Switch>
-            <Route path="/about">
-              <About />
+            <Route exact path="/about">
+              <About mode={mode} />
             </Route>
 
-            <Route path="/">
+            <Route exact path="/">
               <TextForm
                 showAlert={showAlert}
                 heading="Enter text to analyze"

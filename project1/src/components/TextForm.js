@@ -44,9 +44,7 @@ export default function TextForm(props) {
           <br />
           <button
             type="button"
-            className={`btn btn-${
-              props.modeRed === "danger" ? "danger" : "primary"
-            }`}
+            className="btn btn-primary mx-1 my-1"
             onClick={ChangetoUpper}
           >
             Convert to Uppercase
@@ -54,9 +52,7 @@ export default function TextForm(props) {
 
           <button
             type="button"
-            className={`btn btn-${
-              props.modeRed === "danger" ? "danger" : "primary"
-            }`}
+            className="btn btn-primary mx-1 my-1"
             onClick={ChangetoLower}
           >
             Convert to Lowercase
@@ -72,8 +68,13 @@ export default function TextForm(props) {
       >
         <h1>Text Summary</h1>
         <p>
-          Words {text === null ? 0 : text.split(" ").length} , Characters{" "}
-          {text.length}
+          Words{" "}
+          {
+            text.split(/\s+/).filter((element) => {
+              return element.length !== 0;
+            }).length
+          }{" "}
+          , Characters {text.length}
         </p>
         <h1>Preview</h1>
         <p>{text.length > 0 ? text : "Enter text to preview it here"}</p>

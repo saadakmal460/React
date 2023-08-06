@@ -1,88 +1,99 @@
 import React from "react";
 
 export default function About(props) {
+  let myStyle = {
+    color: props.mode === "dark" ? "white" : "black",
+    background: props.mode === "dark" ? "black" : "white",
+    border: props.mode === "dark" ? "1px solid white" : "black",
+  };
   return (
     <>
-      <div class="accordion accordion-flush" id="accordionFlushExample">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="flush-headingOne">
+      <div className="accordion accordion-flush" id="accordionFlushExample">
+        <div className="accordion-item" style={myStyle}>
+          <h2 className="accordion-header" id="flush-headingOne">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#flush-collapseOne"
               aria-expanded="false"
               aria-controls="flush-collapseOne"
+              style={myStyle}
             >
               Accordion Item #1
             </button>
           </h2>
           <div
             id="flush-collapseOne"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
             aria-labelledby="flush-headingOne"
             data-bs-parent="#accordionFlushExample"
+            style={myStyle}
           >
-            <div class="accordion-body">
-              Placeholder content for this accordion, which is intended to
-              demonstrate the <code>.accordion-flush</code> class. This is the
-              first item's accordion body.
+            <div className="accordion-body">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa
+              nobis nesciunt optio reprehenderit ullam dolores corrupti.
+              Voluptates aspernatur veniam suscipit accusantium. Delectus soluta
+              ipsam odit, assumenda iste sunt, harum voluptas reprehenderit
+              quaerat voluptatum reiciendis!
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="flush-headingTwo">
+        <div className="accordion-item">
+          <h2 className="accordion-header" id="flush-headingTwo">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#flush-collapseTwo"
               aria-expanded="false"
               aria-controls="flush-collapseTwo"
+              style={myStyle}
             >
               Accordion Item #2
             </button>
           </h2>
           <div
             id="flush-collapseTwo"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
             aria-labelledby="flush-headingTwo"
             data-bs-parent="#accordionFlushExample"
+            style={myStyle}
           >
-            <div class="accordion-body">
-              Placeholder content for this accordion, which is intended to
-              demonstrate the <code>.accordion-flush</code> class. This is the
-              second item's accordion body. Let's imagine this being filled with
-              some actual content.
+            <div className="accordion-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum,
+              porro repudiandae vero voluptatibus totam voluptas nulla aliquam
+              deserunt similique, unde vitae dicta amet cum iusto aliquid
+              ducimus, quos non corporis qui quaerat expedita earum.
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="flush-headingThree">
+        <div className="accordion-item">
+          <h2 className="accordion-header" id="flush-headingThree">
             <button
-              class="accordion-button collapsed"
+              className="accordion-button collapsed"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#flush-collapseThree"
               aria-expanded="false"
               aria-controls="flush-collapseThree"
+              style={myStyle}
             >
               Accordion Item #3
             </button>
           </h2>
           <div
             id="flush-collapseThree"
-            class="accordion-collapse collapse"
+            className="accordion-collapse collapse"
             aria-labelledby="flush-headingThree"
             data-bs-parent="#accordionFlushExample"
+            style={myStyle}
           >
-            <div class="accordion-body">
-              Placeholder content for this accordion, which is intended to
-              demonstrate the <code>.accordion-flush</code> class. This is the
-              third item's accordion body. Nothing more exciting happening here
-              in terms of content, but just filling up the space to make it
-              look, at least at first glance, a bit more representative of how
-              this would look in a real-world application.
+            <div className="accordion-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
+              fugiat illum laboriosam? Nam, alias quam eaque quibusdam, possimus
+              quis facere repellendus obcaecati amet eos nesciunt nostrum
+              tempora, quas blanditiis neque iusto! Reiciendis, quis dolorem!
             </div>
           </div>
         </div>
