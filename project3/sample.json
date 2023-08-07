@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aimee Lewis",
+            "title": "US knocked out of Women’s World Cup after penalty shootout loss to Sweden - CNN",
+            "description": "The US’ participation in the Women’s World Cup is over, ending in the cruelest of defeats.",
+            "url": "https://www.cnn.com/2023/08/05/football/usa-sweden-womens-world-cup-2023-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230806075838-bt15-usa-sweden-0806.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-06T18:06:00Z",
+            "content": "The US participation in the Womens World Cup is over, ending in the cruelest of defeats. \r\nAfter a tense match, the sort which causes the stomach to churn, it is Sweden which progresses to the quarte… [+5368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Niger: thousands gather for rally to cheer generals who led coup - The Guardian",
+            "description": "Supporters wave Niger and Russia flags as Ecowas deadline for military to cede power approaches",
+            "url": "https://www.theguardian.com/world/2023/aug/06/niger-thousands-gather-for-rally-to-cheer-generals-who-led-coup",
+            "urlToImage": "https://i.guim.co.uk/img/media/0849382645aec70c405434d766b5b7201ef85c6c/0_127_4297_2579/master/4297.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=553020c477efed42706d06c8a7c18c5f",
+            "publishedAt": "2023-08-06T17:36:00Z",
+            "content": "Thousands of coup supporters in Niger gathered on Sunday for a rally to cheer on the generals claiming power, as a deadline set by the west African bloc for the military to relinquish control or face… [+8724 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Arsenal 1-1 Manchester City (Aug 6, 2023) Game Analysis - ESPN",
+            "description": "Expert recap and game analysis of the Manchester City vs. Arsenal English Fa Community Shield game from August 6, 2023 on ESPN.",
+            "url": "https://www.espn.com/soccer/report/_/gameId/670111",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
+            "publishedAt": "2023-08-06T17:32:09Z",
+            "content": "Arsenal beat Manchester City 4-1 in a penalty shootout to win the Community Shield on Sunday and strike the first blow in this season's rivalry between the two clubs.\r\nFabio Vieira scored the winning… [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Katie Dowd",
+            "title": "After 2 die of Legionnaires, Bay Area officials search for source - SFGATE",
+            "description": "Bay Area health officials believe both victims visited the same spa in the days leading up to their deaths.",
+            "url": "https://www.sfgate.com/bayarea/article/legionnaires-disease-deaths-bay-area-18281563.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/33/77/10/24113681/3/rawImage.jpg",
+            "publishedAt": "2023-08-06T17:28:46Z",
+            "content": "Zen Day Spa on San Pablo in Richmond, Calif., is believed to be the common location in three cases of Legionnaires' disease, county health officials said in Aug. 2023.\r\nGoogle Street View\r\nAn investi… [+1848 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The EPA's ambitious plan to cut auto emissions to slow climate change runs into skepticism - POLITICO",
+            "description": "The EPA says the industry could meet the limits if 67% of new-vehicle sales are electric by 2032, a pace the auto industry calls unrealistic.",
+            "url": "https://www.politico.com/news/2023/08/06/epa-electric-vehicle-emissions-00110020",
+            "urlToImage": "https://static.politico.com/70/e3/3135fe53470db0d16f48a05649bc/climate-law-anniversary-69298.jpg",
+            "publishedAt": "2023-08-06T16:47:20Z",
+            "content": "Even if the industry boosts EV sales to the level the EPA recommends, any reduction in pollution could prove more modest than the agency expects. The Associated Press has estimated that nearly 80% of… [+5592 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Musk says his cage fight with Zuckerberg will be streamed on X - The Associated Press",
+            "description": "Elon Musk says his potential in-person fight with Mark Zuckerberg would be streamed live on his social media site X, formerly known as Twitter. The two tech billionaires seemingly agreed to a “cage match” face-off in late June. Must wrote in a post Sunday tha…",
+            "url": "https://apnews.com/article/elon-musk-mark-zuckerberg-cage-fight-28598abc5be6959f01c1b0079211a360",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d18cdb6/2147483647/strip/true/crop/2000x1125+0+139/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F3f%2F517f7f0a63223c0094be3fd2ca3d%2F5ce98d3d44ce4a09a66c4deb59784eb0",
+            "publishedAt": "2023-08-06T16:42:00Z",
+            "content": "NEW YORK (AP) Elon Musk says his potential in-person fight with Mark Zuckerberg would be streamed on his social media site X, formerly known as Twitter.\r\nThe two tech billionaires seemingly agreed to… [+1887 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Trump says he will seek a recusal, venue change in Jan. 6 case - POLITICO",
+            "description": "Trump’s argument has been repeatedly rejected by federal judges in D.C. who have handled other politically sensitive cases stemming from the Jan. 6 attack on the Capitol.",
+            "url": "https://www.politico.com/news/2023/08/06/trump-venue-change-jan-6-case-00110006",
+            "urlToImage": "https://static.politico.com/85/a0/18671e3f4778a29eaa8a01d45d2a/election-2024-trump-83711.jpg",
+            "publishedAt": "2023-08-06T16:34:47Z",
+            "content": "Trump previously wrote on Truth Social that a fair trial would be impossible in D.C., suggesting the proceedings should instead take place in the politically unbiased nearby State of West Virginia! I… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Ukraine allies buoyed by 'constructive' China signals at Jeddah talks - Financial Times",
+            "description": "Moscow not invited to forum but Beijing positive on engaging in future negotiations on finding a resolution to war",
+            "url": "https://www.ft.com/content/b82b533d-ae06-404b-8b6c-73e0ecd9e067",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac674833-4b84-4233-abf5-a429e4ee1272.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-08-06T16:33:00Z",
+            "content": "China has signalled it is willing to attend further international talks on resolving the conflict in Ukraine, according to European officials who hailed its constructive participation in a Saudi Arab… [+4330 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Yilek",
+            "title": "Barr says Trump prosecution is \"legitimate case\" and doesn't \"run afoul of the First Amendment\" - CBS News",
+            "description": "\"It's certainly a challenging case, but I don't think it runs afoul of the First Amendment,\" former Attorney General Bill Barr said.",
+            "url": "https://www.cbsnews.com/news/bill-barr-trump-indictment-first-amendment-face-the-nation/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/06/9b1bf264-9a67-4ade-9ddc-88d6e63a7146/thumbnail/1200x630/ad46e4b8195758f21435cad6421120c0/barr.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-06T16:26:15Z",
+            "content": "Washington — Former Attorney General WIlliam Barr dismissed the argument that the election interference case against former President Donald Trump is not valid because his statements were protected b… [+2541 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Annabelle Timsit",
+            "title": "Japan decries Russian nuclear threat on 78th Hiroshima bomb anniversary - The Washington Post",
+            "description": "The war in Ukraine has made the goal of nuclear disarmament more difficult, Japan's prime minister said on the 78th anniversary of the U.S. bombing.",
+            "url": "https://www.washingtonpost.com/world/2023/08/06/hiroshima-nagasaki-anniversary-russia-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOJO25LALNJI7PWNSC42URCBGE_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-06T16:24:00Z",
+            "content": "Comment on this story\r\nComment\r\nOn Aug. 6, 1945, the United States dropped an atomic bomb on the Japanese city of Hiroshima, followed three days later by another one on Nagasaki. The worlds first and… [+4422 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Emily Mae Czachor",
+            "title": "\"Hank the Tank,\" Lake Tahoe bear linked to at least 21 home invasions, has been captured - CBS News",
+            "description": "The troublesome bear, infamous for wreaking havoc on the South Lake Tahoe community, will be transported to a sanctuary in Colorado, officials said.",
+            "url": "https://www.cbsnews.com/news/hank-the-tank-bear-lake-tahoe-21-home-invasions-captured-california/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/06/4b6241d4-bb47-4b56-a22e-aabf87304477/thumbnail/1200x630/a9e213f13624866a60259cb5e0a1bef0/hank-the-tank.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-06T15:42:17Z",
+            "content": "\"Hank the Tank,\" troublesome Lake Tahoe bear, being sent to Colorado sanctuary \r\n\"Hank the Tank,\" troublesome Lake Tahoe bear, being sent to Colorado sanctuary01:30\r\nA beloved but troublesome black b… [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Benjamin Brown, Chris Liakos",
+            "title": "At least 30 killed, 67 injured after train derails in Pakistan - CNN",
+            "description": "At least 30 people were killed and 67 injured after a train derailed in Pakistan on Sunday, Pakistan Railways said.",
+            "url": "https://www.cnn.com/2023/08/06/asia/pakistan-train-derails-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230806061945-01-nawabshah-derailment-080623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-06T15:29:00Z",
+            "content": "At least 30 people were killed and 67 injured after a train derailed in Pakistan on Sunday, Pakistan Railways said. \r\nRelief and rescue efforts are underway after the Hazara Express derailed near Naw… [+831 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Edelman, Dareh Gregorian, Sarah Dean",
+            "title": "Trump may have committed 'a technical violation of the Constitution,' not a crime, his lawyer says - NBC News",
+            "description": "Former President Donald Trump lawyer John Lauro previews his criminal defense in 2020 election indictment on NBC’s “Meet the Press.\"",
+            "url": "https://www.nbcnews.com/politics/donald-trump/donald-trump-2020-election-indictment-lawyer-john-lauro-rcna98406",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230806-donald-trump-jm-1152-cc72eb.jpg",
+            "publishedAt": "2023-08-06T15:26:53Z",
+            "content": "If former President Donald Trump committed a technical violation of the Constitution, it doesnt mean he necessarily broke any criminal laws, John Lauro, Trumps criminal defense attorney, argued on NB… [+6585 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Yilek",
+            "title": "Trump lawyer says Pence will be defense's \"best witness\" in 2020 election case as former VP disputes claims - CBS News",
+            "description": "Former Vice President Mike Pence is a key figure in the prosecution's case against former President Donald Trump.",
+            "url": "https://www.cbsnews.com/news/john-lauro-trump-attorney-mike-pence-2020-election-indictment-face-the-nation/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/06/fbcbba46-f223-4973-9e11-f2c47cc738e7/thumbnail/1200x630g2/87a374cbe809eaa72c1d2fd1b9e86e23/lauro.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-06T15:04:21Z",
+            "content": "Washington — Former President Donald Trump's attorney John Lauro argued former Vice President Mike Pence will be the defense's \"best witness\" in the federal case accusing Trump of trying to overturn … [+2839 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Pavel Polityuk",
+            "title": "Russia launches burst of missile and drone attacks, Ukraine says - Reuters",
+            "description": "Ukraine is seeing \"significant results\" from U.S. and German air defence systems, President Volodymyr Zelenskiy said on Sunday, despite waves of Russian air strikes that included a hit on a blood transfusion centre.",
+            "url": "https://www.reuters.com/world/europe/russia-launches-new-burst-missile-drone-attacks-ukrainian-air-force-says-2023-08-06/",
+            "urlToImage": "https://www.reuters.com/resizer/y3yeF1ZmjYW8ofgrEmhEhPhNXBE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HA46MEBAMRID3OYOXYIJVSRI3A.jpg",
+            "publishedAt": "2023-08-06T14:48:00Z",
+            "content": "KYIV, Aug 6 (Reuters) - Ukraine is seeing \"significant results\" from U.S. and German air defence systems, President Volodymyr Zelenskiy said on Sunday, despite waves of Russian air strikes that inclu… [+5185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Pamela McClintock",
+            "title": "Weekend Box Office: 'Barbie' Crosses $1B Globally, 'Meg 2' and 'Teenage Mutant Ninja Turtles' Further Barbenheimer Bloom - Hollywood Reporter",
+            "description": "'Meg 2: The Trench' and 'Teenage Mutant Ninja Turtles: Mutant Mayhem' open ahead of expectations, while 'Oppenheimer' is now the biggest World War II pic of all time at $552.9 million.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/barbie-box-office-crosses-1b-slays-turtles-meg-1235551691/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/Barbie-Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-Meg-2-The-Trench-publicity-H-2023.jpg?w=1024",
+            "publishedAt": "2023-08-06T14:46:42Z",
+            "content": "Turtles and a humongous shark helped fuel another great weekend at the box office as they opened ahead of expectations and contributed to the Barbenheimer bloom. \r\nGreta Gerwig’s Barbie grossed anoth… [+4688 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Michael Sin, Vlad Savov, Bloomberg",
+            "title": "Elon Musk vows to fund legal bill of X users who face employer discrimination due to ‘posting or liking something on this platform’ - Fortune",
+            "description": "The proposal comes with “no limit” on costs and X Corp. will \"go after the boards of directors of the companies too,\" he stated.",
+            "url": "https://fortune.com/2023/08/06/elon-musk-legal-bill-x-twitter-users-employer-discrimination-posts-likes/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-1258889471-e1691330618997.jpg?resize=1200,600",
+            "publishedAt": "2023-08-06T14:19:00Z",
+            "content": "Elon Musk has offered to fund the legal bills of any users of his social network, X, whove been discriminated against by their employer because of their actions on the platform.The proposal comes wit… [+1511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Brent Brookhouse",
+            "title": "Jake Paul vs. Nate Diaz results, highlights: 'The Problem Child' scores knockdown, earns decision win - CBS Sports",
+            "description": "Paul was the superior boxer on Saturday night as he routinely beat Diaz to the punch over 10 rounds",
+            "url": "https://www.cbssports.com/boxing/news/jake-paul-vs-nate-diaz-results-highlights-the-problem-child-scores-knockdown-earns-decision-win/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/06/42d540e0-0311-4739-a4dc-d4f80d214f04/thumbnail/1200x675/5390d7a27a82e8d837c902bd85e96afd/jake-paul-diaz-punch.jpg",
+            "publishedAt": "2023-08-06T14:11:00Z",
+            "content": "Nate Diaz believed that, in his professional boxing debut, if he could force Jake Paul to go 10 rounds instead of eight, it would be to his advantage. But instead, Paul (7-1, 4 KO) showed once again … [+5435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Gary Gambino",
+            "title": "Berkshire Hathaway Stock: Q2 Earnings Results Blew Away Bears - Seeking Alpha",
+            "description": "Berkshire (BRK.A)(BRK.B) exceeded low expectations for Q2 as its insurance business performed well. See what makes the stock a buy for long-term investors.",
+            "url": "https://seekingalpha.com/article/4624656-berkshire-hathaway-stock-q2-earnings-results-blew-away-bears",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/501615406/image_501615406.jpg?io=getty-c-w1536",
+            "publishedAt": "2023-08-06T14:00:00Z",
+            "content": "Steve Pope\r\nBerkshire Q2 Earnings - Low Expectations Easily Beaten\r\nMany analysts had low expectations headed into Berkshire Hathaway's (NYSE:BRK.A) (NYSE:BRK.B) first half 2023 results. The preview … [+13242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ramon Antonio Vargas",
+            "title": "Jamie Foxx apologizes after Instagram post draws accusations of antisemitism - The Guardian",
+            "description": "‘I want to apologize to the Jewish community,’ says actor, who clarified that post was directed at ‘fake friend’ who betrayed him",
+            "url": "https://www.theguardian.com/film/2023/aug/06/jamie-foxx-apologizes-instagram-post-antisemitism",
+            "urlToImage": "https://i.guim.co.uk/img/media/c0b37c3e3ec9d1e3bf4d521a58dc194d9df1276e/0_63_2772_1664/master/2772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07e575cece22be6592d426cb047b227c",
+            "publishedAt": "2023-08-06T13:56:00Z",
+            "content": "The actor Jamie Foxx has apologized after a social media post from him drew accusations of antisemitism.\r\nFoxxs post on Instagram read: They killed this dude name Jesus what do you think theyll do to… [+8482 chars]"
+        }
+    ]
+}
